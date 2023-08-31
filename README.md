@@ -1,2 +1,3 @@
-# DataRepository
-Some Preprocessed Data Used for Events
+# Data Repository
+
+A collection of data files.
