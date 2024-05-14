@@ -1,0 +1,292 @@
+Shown Here:
+Referred in Senate (03/14/2024)
+[Congressional Bills 118th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 7521 Referred in Senate (RFS)]
+
+<DOC>
+118th CONGRESS
+  2d Session
+                                H. R. 7521
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             March 14, 2024
+
+    Received; read twice and referred to the Committee on Commerce, 
+                      Science, and Transportation
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+ To protect the national security of the United States from the threat 
+posed by foreign adversary controlled applications, such as TikTok and 
+   any successor application or service and any other application or 
+service developed or provided by ByteDance Ltd. or an entity under the 
+                       control of ByteDance Ltd.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Protecting Americans from Foreign 
+Adversary Controlled Applications Act''.
+
+SEC. 2. PROHIBITION OF FOREIGN ADVERSARY CONTROLLED APPLICATIONS.
+
+    (a) In General.--
+            (1) Prohibition of foreign adversary controlled 
+        applications.--It shall be unlawful for an entity to 
+        distribute, maintain, or update (or enable the distribution, 
+        maintenance, or updating of) a foreign adversary controlled 
+        application by carrying out, within the land or maritime 
+        borders of the United States, any of the following:
+                    (A) Providing services to distribute, maintain, or 
+                update such foreign adversary controlled application 
+                (including any source code of such application) by 
+                means of a marketplace (including an online mobile 
+                application store) through which users within the land 
+                or maritime borders of the United States may access, 
+                maintain, or update such application.
+                    (B) Providing internet hosting services to enable 
+                the distribution, maintenance, or updating of such 
+                foreign adversary controlled application for users 
+                within the land or maritime borders of the United 
+                States.
+            (2) Applicability.--Subsection (a) shall apply--
+                    (A) in the case of an application that satisfies 
+                the definition of a foreign adversary controlled 
+                application pursuant to subsection (g)(3)(A), beginning 
+                on the date that is 180 days after the date of the 
+                enactment of this Act; and
+                    (B) in the case of an application that satisfies 
+                the definition of a foreign adversary controlled 
+                application pursuant to subsection (g)(3)(B), beginning 
+                on the date that is 180 days after the date of the 
+                relevant determination of the President under such 
+                subsection.
+    (b) Data and Information Portability to Alternative Applications.--
+Before the date on which a prohibition under subsection (a) applies to 
+a foreign adversary controlled application, the entity that owns or 
+controls such application shall provide, upon request by a user of such 
+application within the land or maritime borders of United States, to 
+such user all the available data related to the account of such user 
+with respect to such application. Such data shall be provided in a 
+machine readable format and shall include any data maintained by such 
+application with respect to the account of such user, including content 
+(including posts, photos, and videos) and all other account 
+information.
+    (c) Exemptions.--
+            (1) Exemptions for qualified divestitures.--Subsection 
+        (a)--
+                    (A) does not apply to a foreign adversary 
+                controlled application with respect to which a 
+                qualified divestiture is executed before the date on 
+                which a prohibition under subsection (a) would begin to 
+                apply to such application; and
+                    (B) shall cease to apply in the case of a foreign 
+                adversary controlled application with respect to which 
+                a qualified divestiture is executed after the date on 
+                which a prohibition under subsection (a) applies to 
+                such application.
+            (2) Exemptions for certain necessary services.--Subsections 
+        (a) and (b) do not apply to services provided with respect to a 
+        foreign adversary controlled application that are necessary for 
+        an entity to attain compliance with such subsections.
+    (d) Enforcement.--
+            (1) Civil penalties.--
+                    (A) Foreign adversary controlled application 
+                violations.--An entity that violates subsection (a) 
+                shall be subject to pay a civil penalty in an amount 
+                not to exceed the amount that results from multiplying 
+                $5,000 by the number of users within the land or 
+                maritime borders of the United States determined to 
+                have accessed, maintained, or updated a foreign 
+                adversary controlled application as a result of such 
+                violation.
+                    (B) Data and information violations.--An entity 
+                that violates subsection (b) shall be subject to pay a 
+                civil penalty in an amount not to exceed the amount 
+                that results from multiplying $500 by the number of 
+                users within the land or maritime borders of the United 
+                States affected by such violation.
+            (2) Actions by attorney general.--The Attorney General--
+                    (A) shall conduct investigations related to 
+                potential violations of subsection (a) or (b), and, if 
+                such an investigation results in a determination that a 
+                violation has occurred, the Attorney General shall 
+                pursue enforcement under paragraph (1); and
+                    (B) may bring an action in an appropriate district 
+                court of the United States for appropriate relief, 
+                including civil penalties under paragraph (1) or 
+                declaratory and injunctive relief.
+    (e) Severability.--
+            (1) In general.--If any provision of this section or the 
+        application of this section to any person or circumstance is 
+        held invalid, the invalidity shall not affect the other 
+        provisions or applications of this section that can be given 
+        effect without the invalid provision or application.
+            (2) Subsequent determinations.--If the application of any 
+        provision of this section is held invalid with respect to a 
+        foreign adversary controlled application that satisfies the 
+        definition of such term pursuant to subsection (g)(3)(A), such 
+        invalidity shall not affect or preclude the application of the 
+        same provision of this section to such foreign adversary 
+        controlled application by means of a subsequent determination 
+        pursuant to subsection (g)(3)(B).
+    (f) Rule of Construction.--Nothing in this Act may be construed--
+            (1) to authorize the Attorney General to pursue 
+        enforcement, under this section, other than enforcement of 
+        subsection (a) or (b);
+            (2) to authorize the Attorney General to pursue 
+        enforcement, under this section, against an individual user of 
+        a foreign adversary controlled application; or
+            (3) except as expressly provided herein, to alter or affect 
+        any other authority provided by or established under another 
+        provision of Federal law.
+    (g) Definitions.--In this section:
+            (1) Controlled by a foreign adversary.--The term 
+        ``controlled by a foreign adversary'' means, with respect to a 
+        covered company or other entity, that such company or other 
+        entity is--
+                    (A) a foreign person that is domiciled in, is 
+                headquartered in, has its principal place of business 
+                in, or is organized under the laws of a foreign 
+                adversary country;
+                    (B) an entity with respect to which a foreign 
+                person or combination of foreign persons described in 
+                subparagraph (A) directly or indirectly own at least a 
+                20 percent stake; or
+                    (C) a person subject to the direction or control of 
+                a foreign person or entity described in subparagraph 
+                (A) or (B).
+            (2) Covered company.--
+                    (A) In general.--The term ``covered company'' means 
+                an entity that operates, directly or indirectly 
+                (including through a parent company, subsidiary, or 
+                affiliate), a website, desktop application, mobile 
+                application, or augmented or immersive technology 
+                application that--
+                            (i) permits a user to create an account or 
+                        profile to generate, share, and view text, 
+                        images, videos, real-time communications, or 
+                        similar content;
+                            (ii) has more than 1,000,000 monthly active 
+                        users with respect to at least 2 of the 3 
+                        months preceding the date on which a relevant 
+                        determination of the President is made pursuant 
+                        to paragraph (3)(B);
+                            (iii) enables 1 or more users to generate 
+                        or distribute content that can be viewed by 
+                        other users of the website, desktop 
+                        application, mobile application, or augmented 
+                        or immersive technology application; and
+                            (iv) enables 1 or more users to view 
+                        content generated by other users of the 
+                        website, desktop application, mobile 
+                        application, or augmented or immersive 
+                        technology application.
+                    (B) Exclusion.--The term ``covered company'' does 
+                not include an entity that operates a website, desktop 
+                application, mobile application, or augmented or 
+                immersive technology application whose primary purpose 
+                is to allow users to post product reviews, business 
+                reviews, or travel information and reviews.
+            (3) Foreign adversary controlled application.--The term 
+        ``foreign adversary controlled application'' means a website, 
+        desktop application, mobile application, or augmented or 
+        immersive technology application that is operated, directly or 
+        indirectly (including through a parent company, subsidiary, or 
+        affiliate), by--
+                    (A) any of--
+                            (i) ByteDance, Ltd.;
+                            (ii) TikTok;
+                            (iii) a subsidiary of or a successor to an 
+                        entity identified in clause (i) or (ii) that is 
+                        controlled by a foreign adversary; or
+                            (iv) an entity owned or controlled, 
+                        directly or indirectly, by an entity identified 
+                        in clause (i), (ii), or (iii); or
+                    (B) a covered company that--
+                            (i) is controlled by a foreign adversary; 
+                        and
+                            (ii) that is determined by the President to 
+                        present a significant threat to the national 
+                        security of the United States following the 
+                        issuance of--
+                                    (I) a public notice proposing such 
+                                determination; and
+                                    (II) a public report to Congress, 
+                                submitted not less than 30 days before 
+                                such determination, describing the 
+                                specific national security concern 
+                                involved and containing a classified 
+                                annex and a description of what assets 
+                                would need to be divested to execute a 
+                                qualified divestiture.
+            (4) Foreign adversary country.--The term ``foreign 
+        adversary country'' means a country specified in section 
+        4872(d)(2) of title 10, United States Code.
+            (5) Internet hosting service.--The term ``internet hosting 
+        service'' means a service through which storage and computing 
+        resources are provided to an individual or organization for the 
+        accommodation and maintenance of 1 or more websites or online 
+        services, and which may include file hosting, domain name 
+        server hosting, cloud hosting, and virtual private server 
+        hosting.
+            (6) Qualified divestiture.--The term ``qualified 
+        divestiture'' means a divestiture or similar transaction that--
+                    (A) the President determines, through an 
+                interagency process, would result in the relevant 
+                foreign adversary controlled application no longer 
+                being controlled by a foreign adversary; and
+                    (B) the President determines, through an 
+                interagency process, precludes the establishment or 
+                maintenance of any operational relationship between the 
+                United States operations of the relevant foreign 
+                adversary controlled application and any formerly 
+                affiliated entities that are controlled by a foreign 
+                adversary, including any cooperation with respect to 
+                the operation of a content recommendation algorithm or 
+                an agreement with respect to data sharing.
+            (7) Source code.--The term ``source code'' means the 
+        combination of text and other characters comprising the 
+        content, both viewable and nonviewable, of a software 
+        application, including any publishing language, programming 
+        language, protocol, or functional content, as well as any 
+        successor languages or protocols.
+            (8) United states.--The term ``United States'' includes the 
+        territories of the United States.
+
+SEC. 3. JUDICIAL REVIEW.
+
+    (a) Right of Action.--A petition for review challenging this Act or 
+any action, finding, or determination under this Act may be filed only 
+in the United States Court of Appeals for the District of Columbia 
+Circuit.
+    (b) Exclusive Jurisdiction.--The United States Court of Appeals for 
+the District of Columbia Circuit shall have exclusive jurisdiction over 
+any challenge to this Act or any action, finding, or determination 
+under this Act.
+    (c) Statute of Limitations.--A challenge may only be brought--
+            (1) in the case of a challenge to this Act, not later than 
+        165 days after the date of the enactment of this Act; and
+            (2) in the case of a challenge to any action, finding, or 
+        determination under this Act, not later than 90 days after the 
+        date of such action, finding, or determination.
+
+            Passed the House of Representatives March 13, 2024.
+
+            Attest:
+
+                                             KEVIN F. MCCUMBER,
+
+                                                                 Clerk.
