@@ -1,0 +1,1912 @@
+,question,context,idx,answer
+0,How did Podium improve their agent F1 response quality and reduce engineering intervention by 90%?,"How Podium optimized agent behavior and reduced engineering intervention by 90% with LangSmith
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All Posts
+
+
+
+
+Case Studies
+
+
+
+
+In the Loop
+
+
+
+
+LangChain
+
+
+
+
+Docs
+
+
+
+
+Changelog
+
+
+
+
+
+Sign in
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How Podium optimized agent behavior and reduced engineering intervention by 90% with LangSmith
+See how Podium tests across the lifecycle development of their AI employee agent, using LangSmith for dataset curation and finetuning. They improved agent F1 response quality to 98% and reduced the need for engineering intervention by 90%.
+
+5 min read
+Aug 15, 2024",0,"Podium optimized agent behavior and reduced engineering intervention by 90% by using LangSmith for dataset curation and finetuning, which improved the agent's F1 response quality to 98%."
+1,How did Athena Intelligence utilize LangSmith in their workflow to enhance the generation of complex research reports?,"How Athena Intelligence optimized research reports with LangSmith, LangChain, and LangGraph
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All Posts
+
+
+
+
+Case Studies
+
+
+
+
+In the Loop
+
+
+
+
+LangChain
+
+
+
+
+Docs
+
+
+
+
+Changelog
+
+
+
+
+
+Sign in
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How Athena Intelligence optimized research reports with LangSmith, LangChain, and LangGraph
+See how an AI-powered employee for enterprise analytics used the LangSmith playground and debugging features to quickly identify LLM issues and to generate complex research reports.
+
+Case Studies
+4 min read
+Jul 21, 2024",40,Athena Intelligence used the LangSmith playground and debugging features to quickly identify LLM issues and generate complex research reports.
+2,What are the four strategies supported by LangGraph Cloud for handling additional context when dealing with double-texting in currently-running threads?,"and with LangGraph and LangSmith, LangChain delivers an out-of-the-box solution to iterate quickly, debug immediately, and scale effortlessly."" – Garrett Spong (Principal SWE @ Elastic)Lastly, LangGraph natively supports streaming of intermediate steps and token-by-token streaming, enabling more dynamic and responsive experiences for users working with long-running, agentic tasks.LangGraph Cloud: Scalable agent deployment with integrated monitoring To complement the LangGraph framework, we also have a new runtime, LangGraph Cloud, now available in beta, which provides infrastructure purpose-built for deploying agents at scale. As your agentic use case gains traction, uneven task distribution among agents can overload the system, risking slowdowns and downtime. LangGraph Cloud does the heavy lifting to help you achieve fault-tolerant scalability. It gracefully manages horizontally-scaling task queues, servers, and a robust Postgres checkpointer to handle many concurrent users and efficiently store large states and threads.LangGraph Cloud is designed to support real-world interaction patterns. In addition to streaming and human-in-the-loop (which are covered in LangGraph), LangGraph Cloud also adds:Double-texting to handle new user inputs on currently-running threads of the graph. It supports four different strategies for handling additional context: reject, queue, interrupt, and rollback.Asynchronous background jobs for long-running tasks. You can check for completion via polling or a webhook.Cron jobs for running common tasks on a scheduleLangGraph Cloud also brings a more integrated experience for collaborating on, deploying, and monitoring your agentic app. It comes with LangGraph Studio – a playground-like space for visualizing agent trajectories to help debug failure modes and add breakpoints for interruption, state editing, resumption, and time travel. LangGraph Studio lets you share your LangGraph agent with internal stakeholders for feedback and rapid iteration.Additionally, LangGraph Cloud simplifies deployment. Select a LangGraph repo from GitHub, and with just one-click, deploy your agentic application — no infra expertise required. And since LangGraph Cloud is integrated within LangSmith, you can gain deeper visibility into your app and track and monitor usage, errors, performance, and costs in production too. We're excited to roll out LangGraph Cloud, with support from partners like Ally Financial who have already been making strides with LangGraph.“As Ally advances its exploration of Generative AI, our tech labs is excited by LangGraph, the new library from LangChain, which is central to our experiments with multi-actor agentic workflows. We are committed to deepening our partnership with LangChain.” - Sathish Muthukrishnan (Chief Information, Data and Digital Officer @ Ally Financial) Try it for yourselfTo get started with LangGraph, simply go to the GitHub project and follow the install instructions.To get access to LangGraph Cloud, sign up for the LangGraph Cloud waitlist. You’ll need to first have a LangSmith account (which you can try out for free) to use LangGraph Cloud features.We believe we have a unique approach to building agents – one that lets you put your company specific workflow at the center and gives you the control needed to ship to production. Our hope is that with the launch of these tools, we’re a step closer to bridging the gap between user expectations and agent capabilities. If you have feedback, we’d love to hear from you at hello@langchain.dev!Learn more from these additional resources:LangGraph docsLangGraph Cloud docsLangGraph webpage (with FAQs)",80,"LangGraph Cloud provides four different strategies for handling additional user inputs on currently-running threads of the graph. What are these strategies?
+
+Reject, queue, interrupt, and rollback."
+3,What action is required after receiving the success message for confirming your subscription to the LangChain newsletter?,"Tags
+
+
+
+Join our newsletter
+Updates from the LangChain team and community
+
+
+Enter your email
+
+Subscribe
+
+Processing your application...
+Success! Please check your inbox and click the link to confirm your subscription.
+Sorry, something went wrong. Please try again.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up
+
+
+
+
+
+            © LangChain Blog 2024",120,Please check your inbox and click the link to confirm your subscription.
+4,What are the key features of the Open Source Extraction Service announced earlier this month?,"Open Source Extraction Service
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All Posts
+
+
+
+
+Case Studies
+
+
+
+
+In the Loop
+
+
+
+
+LangChain
+
+
+
+
+Docs
+
+
+
+
+Changelog
+
+
+
+
+
+Sign in
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open Source Extraction Service
+
+7 min read
+Mar 26, 2024
+
+
+
+
+
+Earlier this month we announced our most recent OSS use-case accelerant: a service for extracting structured data from unstructured sources, such as text and PDF documents. Today we are exposing a hosted version of the service with a simple front end. The application is free to use, but is not intended for production workloads or sensitive data. The intent is to showcase what is possible in this category in 2024, and to help developers get a running start with their own applications.Key Links:YouTube Walkthrough: https://youtu.be/-FMUt3OARy0Hosted Extraction Service:  https://extract.langchain.com/ GitHub Repo: https://github.com/langchain-ai/langchain-extractWhy now?Structured data extraction has emerged as a valuable use case of large language models, which can reason through the ambiguities of unstructured text to coerce information into a desired schema. Model providers are increasingly supporting long context windows and function calling capabilities, both key features to data extraction. And we have recently improved LangChain’s support for data extraction, allowing developers to easily work with a variety of file types, schema formats, models, few-shot examples, and extraction methods (e.g., tool calling, JSON mode, or parsing). Hosting a reference application allows users to experiment with the latest tools for their own use-cases, and connect what they see to the underlying OSS implementation.FeaturesSupport for PDF, HTML, and text;Defining and persisting extractors with their own schema and custom instructions;Adding few-shot examples for in-context learning;Sharing extractors among users;Swapping LLM models;A LangServe endpoint for the core extraction logic, allowing it to be plugged into your own Langchain workflows;A frontend that lets you define extraction schemas in natural language, share with other users, and test them on text or files (no support of few shot examples yet).WalkthroughLet’s walk through an example, extracting financial data from a public company earnings call. Here we use the prepared remarks from Uber’s Q4 2023 earnings call, which Uber investor relations makes available online.Most public companies host earnings calls, providing their management opportunities to discuss past financial results and future plans. Natural language transcripts of these calls may contain useful information, but often this information must first be extracted from the document and arranged into a structured form so that it can be analyzed or compared across time periods and other companies.Let’s first grab the PDF:import requests
+
+pdf_url = ""https://s23.q4cdn.com/407969754/files/doc_earnings/2023/q4/transcript/Uber-Q4-23-Prepared-Remarks.pdf""
+
+# Get PDF bytes
+pdf_response = requests.get(pdf_url)
+assert(pdf_response.status_code == 200)
+pdf_bytes = pdf_response.contentNext, we will generate a unique identifier for ourselves. Our application does not manage users or include legitimate authentication. Access to extractors, few-shot examples, and other artifacts is controlled via this ID. Consider it secret, and don’t lose it!from uuid import uuid4
+
+user_id = str(uuid4())
+headers = {""x-key"": user_id}We next specify the schema of what we intend to extract. Here we specify a record of financial data. We allow the LLM to infer various attributes, such as the time period for the record. Here we use Pydantic for readability, but ultimately the service relies on JSON schema.from pydantic import BaseModel, Field",160,The Open Source Extraction Service is a newly launched application that extracts structured data from unstructured sources such as text and PDF documents. It is free to use but not intended for production workloads or sensitive data. The service supports various file types and allows defining and sharing extractors with custom schemas and instructions. It facilitates experimentation with the latest tools for data extraction and can be integrated into LangChain workflows.
+5,What are the main subsections of Gödel's mathematical work as outlined in the context provided?,"{'article_h1_main': 'Kurt Gödel', 'article_h2_subsection': '2. Gödel’s Mathematical Work'}
+
+{'article_h1_main': 'Kurt Gödel', 'article_h2_subsection': '2. Gödel’s Mathematical Work', 'article_h3_subsection': '2.1 The Completeness Theorem', 'article_h4_subsection': '2.1.1 Introduction'}
+
+{'article_h1_main': 'Kurt Gödel', 'article_h2_subsection': '2. Gödel’s Mathematical Work', 'article_h3_subsection': '2.1 The Completeness Theorem', 'article_h4_subsection': '2.1.2 Proof of the Completeness Theorem'}
+
+{'article_h1_main': 'Kurt Gödel', 'article_h2_subsection': '2. Gödel’s Mathematical Work', 'article_h3_subsection': '2.1 The Completeness Theorem', 'article_h4_subsection': '2.1.3 An Important Consequence of the Completeness Theorem'}
+
+{'article_h1_main': 'Kurt Gödel', 'article_h2_subsection': '2. Gödel’s Mathematical Work', 'article_h3_subsection': '2.2 The Incompleteness Theorems'}
+
+{'article_h1_main': 'Kurt Gödel', 'article_h2_subsection': '2. Gödel’s Mathematical Work', 'article_h3_subsection': '2.2 The Incompleteness Theorems', 'article_h4_subsection': '2.2.1 The First Incompleteness Theorem'}
+
+{'article_h1_main': 'Kurt Gödel', 'article_h2_subsection': '2. Gödel’s Mathematical Work', 'article_h3_subsection': '2.2 The Incompleteness Theorems', 'article_h4_subsection': '2.2.2 The proof of the First Incompleteness Theorem'}
+
+{'article_h1_main': 'Kurt Gödel', 'article_h2_subsection': '2. Gödel’s Mathematical Work', 'article_h3_subsection': '2.2 The Incompleteness Theorems', 'article_h4_subsection': '2.2.3 The Second Incompleteness Theorem'}
+
+{'article_h1_main': 'Kurt Gödel', 'article_h2_subsection': '2. Gödel’s Mathematical Work', 'article_h3_subsection': '2.3 Speed-up Theorems'}
+
+{'article_h1_main': 'Kurt Gödel', 'article_h2_subsection': '2. Gödel’s Mathematical Work', 'article_h3_subsection': '2.4 Gödel’s Work in Set theory', 'article_h4_subsection': '2.4.1 The consistency of the Continuum Hypothesis and the Axiom of Choice'}
+
+{'article_h1_main': 'Kurt Gödel', 'article_h2_subsection': '2. Gödel’s Mathematical Work', 'article_h3_subsection': '2.4 Gödel’s Work in Set theory', 'article_h4_subsection': '2.4.2 Gödel’s Proof of the Consistency of the Continuum Hypothesis and the Axiom of Choice with the Axioms of Zermelo-Fraenkel Set Theory'}
+
+{'article_h1_main': 'Kurt Gödel', 'article_h2_subsection': '2. Gödel’s Mathematical Work', 'article_h3_subsection': '2.4 Gödel’s Work in Set theory', 'article_h4_subsection': '2.4.3 Consequences of Consistency'}",200,"The question isn't provided, but based on the context, here is a potential question and its answer:
+
+Question: What are some key areas of Kurt Gödel’s mathematical work?
+
+Answer: Key areas of Kurt Gödel's mathematical work include the Completeness Theorem, the Incompleteness Theorems, Speed-up Theorems, and his work in set theory, particularly the consistency of the Continuum Hypothesis and the Axiom of Choice with the axioms of Zermelo-Fraenkel Set Theory."
+6,"What should you do after receiving the ""Success!"" message when subscribing to the LangChain newsletter?","Tags
+By LangChain
+
+
+Join our newsletter
+Updates from the LangChain team and community
+
+
+Enter your email
+
+Subscribe
+
+Processing your application...
+Success! Please check your inbox and click the link to confirm your subscription.
+Sorry, something went wrong. Please try again.
+
+
+
+
+
+You might also like
+
+
+
+
+
+
+
+
+
+
+Few-shot prompting to improve tool-calling performance
+
+
+By LangChain
+8 min read
+
+
+
+
+
+
+
+
+
+
+
+
+Improving core tool interfaces and docs in LangChain
+
+
+By LangChain
+4 min read
+
+
+
+
+
+
+
+
+
+
+
+
+Announcing LangGraph v0.1 & LangGraph Cloud: Running agents at scale, reliably
+
+
+By LangChain
+6 min read
+
+
+
+
+
+
+
+
+
+
+
+
+Aligning LLM-as-a-Judge with Human Preferences
+
+
+By LangChain
+5 min read
+
+
+
+
+
+
+
+
+
+
+
+
+How Factory used LangSmith to automate their feedback loop and improve iteration speed by 2x
+
+
+By LangChain
+4 min read
+
+
+
+
+
+
+
+
+
+
+
+
+Workspaces in LangSmith for improved collaboration and organization
+
+
+By LangChain
+3 min read
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up
+
+
+
+
+
+            © LangChain Blog 2024",240,Subscribe
+7,"What is the role of the ISUSE token in the Self-RAG process, and what are the possible outputs it can generate?","output is yes, no, continueISREL token decides whether passages D are relevant  to x with input (x (question), d (chunk)) for d in D. The output is relevant, irrelevant.ISSUP token decides whether the LLM generation from each chunk in D is relevant to the chunk. The input is x, d, y for d in D . It confirm all of the verification-worthy statements in y (generation) are supported by d. Output is fully supported, partially supported, no support.ISUSE token decides whether generation from each chunk in D is a useful response to x. The input is x, y for d in D. Output is {5, 4, 3, 2, 1}.This table in the paper supplements the above information:Four types of tokens used in Self-RAGWe can outline this as simplified graph to understand the information flow:Schematic graph of the flow used in Self-RAGWe can represent this in LangGraph, making a few simplifications / adjustments for illustrative purposes (this can be customized and extended as desired):As above, we grade each retrieved document. If any are relevant, we proceed to generation. If all are irrelevant, then we will transform the query to formulate an improved question and re-retrieve. Note: we could employ the idea above from CRAG (Web search) are a supplementary node in this path!The paper will perform a generation from each chunk and grade it twice. Instead, we perform a single generation from all relevant documents. The generation is then graded relative to the documents (e.g., to guard against hallucinations) and relative to the answer, as above. This reduces the number of LLM calls and improves latency, and allows for consolidation of more context into the generation. Of course, producing generations per chunk and grading them in isolation is an easy adaption if more control is required. LangGraph implementation for Self-RAGHere is an example trace that highlights the ability of active RAG to self-correct. The question is Explain how the different types of agent memory work?. All four documents were deemed relevant, the generation versus documents check passes, but the generation was not deemed fully useful to the question.We then see the loop re-initiate with a re-formulated query here: How do the various types of agent memory function? . One of out of four documents is filtered because it is not relevant (here). The generation then passes both checks:The various types of agent memory include sensory memory, short-term memory, and long-term memory. Sensory memory retains impressions of sensory information for a few seconds. Short-term memory is utilized for in-context learning and prompt engineering. Long-term memory allows the agent to retain and recall information over extended periods, often by leveraging an external vector store.The overall trace is fairly easy to audit, with the nodes clearly laid out:ConclusionSelf-reflection can greatly enhance RAG, enabling correction of poor quality retrieval or generations. Several recent RAG papers focus on this theme, but implementing the ideas can be tricky. Here, we show that LangGraph can be easily used for ""flow engineering"" of self-reflective RAG. We provide cookbooks for implementing ideas from two interesting papers, Self-RAG and CRAG.",280,"The ISUSE token decides whether the generation from each chunk in D is a useful response to x. The input is x, y for d in D. Output is {5, 4, 3, 2, 1}."
+8,What should enterprises do if they are looking to deploy OpenGPTs internally?,"strategies to get the Assistant architecture to work reliably with open source modelsSupport for other tools (including arbitrary OpenAPI specs)Everything behind OpenGPTs is also exposed via API endpoints, so feel free to fork it and use only the backend.If you are an enterprise looking to deploy OpenGPTs internally, please reach out to gtm@langchain.dev.",320,gtm@langchain.dev
+9,"What is the purpose of using LangChain in the creation of the ""Year in code"" personalized videos?","As 2023 comes to a close, Graphite wanted to celebrate GitHub users for their contributions throughout the year. The goal was to end the year with a gift for developers to reminisce, reflect, and feel inspired for the new year.As the creators of GitHub Wrapped, a project we built in 2021 and scaled to 10k users, our team at Rubric was perfectly positioned to take this on.However, 2023 was unlike any other year. 2023 was the year LLMs became generally available.Compared to 2021, it felt like the realm of opportunities had opened wide for us and we wanted to push past static images and templated storylines as we had done  previously. Instead, we wanted to create something truly personalized, completely unique to the end user. We also wanted this to be immersive. And so, Year in code was born — personalized, AI-generated video!It’s no surprise that we ended up leveraging LangChain to build this. LangChain’s out of the box helper functions helped us get to production in days, rather than weeks.Important LinksTry Year in codeGitHub repositoryTry GraphiteTech StackGitHub GraphQL API to fetch GitHub statsLangChain.js & OpenAI GPT-4-turbo to generate the video_manifest (the script)Remotion to create and play the videoAWS Lambda to render videoAWS S3 to store videoThree.js for 3D objectsSupabase for database and authenticationNext.js 13 for frontendVercel for hostingTailwind for stylingZod for schema validationArchitectureOverviewLet’s summarize the architecture in a diagram:Overview of the architectureWe begin by authenticating a GitHub user using Supabase auth. Once authenticated, we fetch user-specific data from the GitHub GraphQL API, and store it in our PostgreSQL database hosted on Supabase. Supabase offers an out of the box API with Row Level Security (RLS) which streamlines reads/writes to the database.At this point, we pass user stats to the LLM (gpt-4-turbo) using LangChain. Leveraging prompt engineering, function-calling & Zod schema validation, we are able to generate structured output called the video_manifest. Think of this as the script of the video.This manifest is passed to a Remotion player which allows easy embeds of Remotion videos in React apps at runtime. The manifest maps over a set of a React components.At this point, the user is able to play the video in the client and also share their URL with their friends. Next.js 13 server rendering patterns make this seamless for the end user. Additionally, the user is able to download an .mp4 file for easy sharing by rendering the video in the cloud using AWS lambda and storing the video in an S3 storage bucket.Let’s explore this in greater detail.Fetching statsWhen you log into the app with GitHub, we fetch some of your stats right away. These include:your most-written languagesrepositories you’ve contributed tostars you’ve given and received, andyour newest friends.We also fetch your total commits, pull requests, and opened issues. Check the type below to get a sense of the data we fetch. We wanted to be cognizant of scope here so we ask for the most necessary permissions, excluding any access to code. The project is also fully open source to reinforce trust with the end user.interface Stats {
+	username: string
+	year: number
+	email: string
+	fullName: string
+	avatarUrl: string
+	company: string
+	commits: number
+	pulls: number
+	contributions: number
+	contributionsHistory: Week[]
+	repos: number
+	reviews: number
+	stars: Star
+	topRepos: Repo[]
+	topLanguages: Language[]
+	topFollows: Follows
+	firstContributionDate: string
+	codingStreakInDays: number
+}Check the full type hereGenerating the manifestWe then pass these stats to OpenAI’s gpt-4-turbo model via LangChain, along with a prompt on how to format its response. Here’s the prompt:const prompt = ChatPromptTemplate.fromMessages([
+  [
+    'system',
+    `You are Github Video Maker, an AI tool that is responsible for generating 
+a compelling narative video based on a users year in code. 
+It is very important that this video feels personal, motivated by their 
+real activities and highlights what was special about that users year in code.",360,"Year in code is a personalized, AI-generated video project developed by Rubric, leveraging LangChain, OpenAI GPT-4-turbo, and several other technologies to celebrate GitHub users' contributions in 2023."
+10,"Explain the difference between ""pulling"" and ""pushing"" context in agent cognitive architectures, using the example of an agent interacting with a SQL database.","that the API doesn’t call the tools for you - unless it is a built in tool like retrieval or code interpreter. Instead, it responds with a certain type of message, telling you which tool(s) should be called (and what the inputs to those tools should be) and then waits for you to call the tools client-side and pass back in the results.This “agent” cognitive architecture has been evolving over the past year and a half. AI21 Labs released their MRKL paper over a year and half ago. The ReAct prompting strategy (released over a year ago) was a particular type of prompting strategy that enables this type of architecture. We incorporated ReAct in LangChain nearly a year ago, quickly expanding to a more general, zero-shot prompting strategy. AutoGPT burst onto the scene about nine months ago, using this same cognitive architecture but giving it more tools, more persistent memory, and generally larger tasks to accomplish.The Bet OpenAI is MakingI was very interested to see how heavily OpenAI leaned into agents given that by all accounts this cognitive architecture is not reliable enough for serious applications. They are best positioned out of anyone to make this work - they control the underlying model, after all. But it is still a bet. They are betting that over time the issues that plague agents will go away.Nearly all of the actually useful “autonomous agents” that we see differ in two key regards.First, many are actually NOT this “agent” cognitive architecture, but rather either elaborate and complex chains, or more similar to “state machines”. Two great public examples of this are GPT-Researcher and Sweep.dev.We wrote at length about GPT-Researcher multiple times, and worked with them last week to release a LangChain template. They are one of the few complex LLM powered applications that produce valuable results, but their cognitive architecture is more like a complex chain. If we look at the diagram below, we can see that it flows in one direction. It does a lot of complex steps, but in defined manner: it first generates sub questions, then gets links for each one, then summarizes each link, then combines the summaries into a research report.The GPT-Researcher cognitive architecture, taken from their GitHub repo.Sweep.dev is another great example. They wrote a blog over the summer describing their cognitive architecture, including a fantastic diagram.Sweep.dev cognitive architecture, taken from their blog.There are clearly defined transitions and steps. First, a search is done. Then a plan is generated. Then the plan is executed on. There is then a validation step: if it passes, a PR is made and Sweep is done. If it fails, then it makes a new plan. This is a pretty clear state machine, where there are well defined transitions between different states.Many other builders and teams that we work with have complex chains/state machines powering their applications. 💡The benefits of these cognitive architectures are simple: more control. No two problems are alike and choosing the appropriate cognitive architecture that fits the problem space is critical to delivering a good experience.For applications that do use something more similar to this agent architecture, they differ from GPTs in another way: how context is provided to the agent.I was chatting with Flo Crivello about cognitive architectures and he brought up the point that one difference in the agent architecture is how context is provided to the agent. Remember, the way we describe most of the interesting LLM applications is “context-aware reasoning applications”. 💡Context can either be provided via pulling or pushing. In most performant and reliable agents, we see a significant amount of context provided by pushing.What does it mean for an agent to pull context? This means that the agent decides what context it needs, and then asks for it. This generally happens via a tool. As a concrete example, an agent created to interact with a SQL database may need to know what tables are present in the SQL database. So we may give it a tool that returns a list of tables in the database, and it can call that tool at the start.In contrast, when context is pushed to the language model it is encoded in the logic of an application that a particular piece context should be fetched and pushed into the prompt. In the example of the SQL agent above, this would correspond to automatically fetching the SQL tables ahead of time and inserting them in the prompt.Most applications that do use an agent architecture have a significant amount of pushed context. As one example, the SQL and Pandas agents in LangChain have the table schemas as part of the system message. As another example, the agent that the Rubrics team built for Cal.com has a significant amount of user information pushed into the prompt.This push vs pull of context again gives developers more",400,"First, many are actually NOT this “agent” cognitive architecture, but rather either elaborate and complex chains, or more similar to “state machines”. Two great public examples of this are GPT-Researcher and Sweep.dev."
+11,"What file format needs to be migrated according to the context provided, and to what should it be migrated?","""id"": ""599d75c8-517c-4f37-88df-ff16576bd607"",
+      ""values"": [0.0076571689, ..., 0.0138477711],
+      ""metadata"": {
+        ""_ab_stream"": ""issues"",
+        ""_ab_record_id"": 1556650122,
+        ""author_association"": ""CONTRIBUTOR"",
+        ""comments"": 3,
+        ""created_at"": ""2023-01-25T13:21:50Z"",
+        // ...
+        ""text"": ""...The acceptance-test-config.yml file is in a legacy format. Please migrate to the latest format..."",
+        ""updated_at"": ""2023-07-17T09:20:56Z"",
+      }
+}On subsequent runs, Airbyte will only re-embed and update the vectors for the issues that changed since the last sync - this will speed up subsequent runs while making sure your data is always up-to-date and available.Step 4 - Chat interfaceThe data is ready, now let’s wire it up with our LLM to answer questions in natural language. As we already used OpenAI for the embedding, the easiest approach is to use it as well for the question answering.We will use Langchain as an orchestration framework to tie all the bits together.First, install a few pip packages locally:pip install pinecone-client langchain openaiThe basic functionality here works the following way:User asks a questionThe question is embedded using the same model used for generating the vectors in the vector database (OpenAI in this case)The question vector is sent to the vector database and documents with similar vectors are returned - as the vectors represent the meaning of the text, the question and the answer to the question will have very similar vectors and relevant documents will be returnedThe text of all documents with the relevant metadata are put together into a single string and sent to the LLM together with the question the user asked and the instruction to answer the user’s question based on the provided contextThe LLM answers the question based on the provided contextThe answer is presented to the userThis flow is often referred to as retrieval augmented generation. The RetrievalQA class from the Langchain framework already implements the basic interaction. The simplest version of our question answering bot only has to provide the vector store and the used LLM:# chatbot.py
+import os
+import pinecone
+from langchain.chains import RetrievalQA
+from langchain.embeddings import OpenAIEmbeddings
+from langchain.llms import OpenAI
+from langchain.vectorstores import Pinecone",440,The acceptance-test-config.yml file is in a legacy format. Please migrate to the latest format.
+12,What are the two required inputs for an OpenAI functions agent as mentioned in the provided context?,"How to design an Agent for Production
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All Posts
+
+
+
+
+Case Studies
+
+
+
+
+In the Loop
+
+
+
+
+LangChain
+
+
+
+
+Docs
+
+
+
+
+Changelog
+
+
+
+
+
+Sign in
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How to design an Agent for Production
+
+6 min read
+Oct 15, 2023
+
+
+
+
+
+Editor's Note: This post is written by Dexter Storey, Sarim Malik, and Ted Spare from the Rubric Labs team. Important LinksGitHub repositoryOpenAI Functions Agent by LangChainInstall Cal.aiGoalThe purpose of this guide is to explain the underlying tech and logic used to deploy a scheduling agent, Cal.ai, in production using LangChain.ContextRecently, our team at Rubric Labs had the opportunity to build Cal.com's AI-driven email assistant. For context, we’re a team of builders who love to tackle challenging engineering problems.The vision for the project was to simplify the complex world of calendar management. Some of the core features we had in mind included:Turning informal emails into bookings: ""Want to meet tomorrow at 2?""Listing and rearranging bookings: ""Cancel my next meeting""Answering basic questions: ""How does my Tuesday look?""and more. In summary, we wanted to build a personal, AI-powered scheduling assistant that can offer a complete suite of CRUD operations to the end user, all within the confines of their email client using natural language.Emailing Cal.aiArchitectureWe decided to achieve this using an AI agent, particularly an OpenAI functions agent which is better at dealing with structured data, given Cal.com's API exposes a set of booking operations with clear inputs. The underlying architecture is explained below.Agent architecture. A scratchpad is a type of memory where the AI tries to write itself.InputA Cal.com user may email username@cal.ai (e.g ted@cal.ai) with a request such as “Can you book a meeting with sarim@rubriclabs.com sometime tomorrow?”.The incoming email is cleaned and routed in the receive route using MailParser and the addresses are verified by DKIM record, making it hard to spoof them.Here we also make additional checks, such as ensuring that the email is from a Cal.com user to prevent misuse. After the email has been verified and parsed, it is passed to the agent loop.AgentThe agent is a LangChain OpenAI functions agent which uses fine-tuned versions of GPT models. This agent is passed pre-defined functions or tools and is able to detect when a function should be called. This allows us to specify the required inputs and desired output.The agent is documented in the agent loop.There are two required inputs for an OpenAI functions agent:Tools — a tool is simply a Javascript function with a name, description, and input schemaChat model — a chat model is a variation of an LLM model that uses an interface where ""chat messages"" are the inputs and outputsIn addition to the tools and the chat model, we also pass a prefix prompt to add context for the model. Let’s look into each of the inputs.👉Let’s use an analogy for clarity. The agent is an electrician named Peer. Peer is unlike any other electrician, Peer has access to deep intelligence using years of training and learning (the model). However, when presented with a problem (the input), Peer’s work (the output) doesn’t always align with the client’s expectations. One day, a client name Bailey decides to hire Peer and offers him a limited set of tools — a soldering gun, battery, wires, and bulb. Peer uses his knowledge and the provided tools to come up with a solution exactly aligned with Bailey’s expectations.PromptA prompt is a way to program the model by providing context. The user’s information (userId, user.username, user.timezone, etc.) is used to construct a prompt which is passed to the agent.const prompt = `You are Cal.ai - a bleeding edge scheduling assistant that interfaces via email.
+Make sure your final answers are definitive, complete and well formatted.
+Sometimes, tools return errors. In this case, try to handle the error 
+intelligently or ask the user for more information.
+Tools will always handle times in UTC, but times sent to users should be 
+formatted per that user's timezone.",480,"The purpose of the guide ""How to design an Agent for Production"" is to explain the underlying technology and logic used to deploy a scheduling agent, Cal.ai, in production using LangChain."
+13,What is the name of the AI-powered developer assistant created by Robocorp to help developers write better Python automation code faster?,"Robocorp’s code generation assistant makes building Python automation easy for developers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All Posts
+
+
+
+
+Case Studies
+
+
+
+
+In the Loop
+
+
+
+
+LangChain
+
+
+
+
+Docs
+
+
+
+
+Changelog
+
+
+
+
+
+Sign in
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Robocorp’s code generation assistant makes building Python automation easy for developers
+
+Case Studies
+2 min read
+Oct 22, 2023
+
+
+
+
+
+ChallengeRobocorp was founded in 2019 out of frustration that the promise of developers being able to automate monotonous work hadn’t been realized. Right out of the gate, their Python-based platform helped teams of all shapes and sizes build and operate automations more efficiently. But, they knew they could deliver even more value for their customers through Generative AI by helping the automation developers write better code, faster.SolutionThe Robocorp team conceived an AI-powered developer assistant named ReMark. ReMark can answer specific automation questions and generate code in seconds, ensuring that developers wouldn’t have to start from scratch. “It's not just a chatbot. It's like a knowledgeable senior developer, familiar with Robocorp's dev tools and automation libraries,”says Tommi Holmgren, VP of Product at Robocorp.ReMark helps practitioners by generating functional code snippets relevant to their use case. The chat interface is a great fit for iterating solutions, spotting errors, and discovering the best keywords to use from the extensive Robocorp library. Robocorp turned to LangChain. It provides a single, composable, solution that makes it easy to unify many sources of data. Making it possible to build an application that could take advantage of the thousands of lines of real automation examples and documentation on the Robocorp platform. LangChain also offered a straightforward blueprint for Retrieval Augmented Generation (RAG) applications and any easy onramp for experimenting with agents.Robocorp is all-in on code. Anyone who can speak natural language can use ReMark to translate ideas into Python bots. For non-developers ReMark offers an AI assisted path to start building code-based bots without limitations of no-code tools, and for developers ReMark brings speed and efficiency.ResultsHappier customers“Developers who have embraced the new capabilities come back to us happy and report they are building bots 4x faster,” says Tommi Holmgren, VP of Product at Robocorp. ReMark has already been a meaningful accelerant to the Robocorp business. Reduction in support hoursRobocorp saves hundreds of hours on support requests because customers are self-serving answers to their problems. “Now we can scale our business faster than we scale our headcount, without sacrificing the level of support our users are accustomed to,” says Antti Karjalainen, Robocorp founder and CEO. “And we can focus on what we love–building products that really move the needle for our customers.”
+
+
+Tags
+Case Studies
+
+
+Join our newsletter
+Updates from the LangChain team and community
+
+
+Enter your email
+
+Subscribe
+
+Processing your application...
+Success! Please check your inbox and click the link to confirm your subscription.
+Sorry, something went wrong. Please try again.
+
+
+
+
+
+You might also like
+
+
+
+
+
+
+
+
+
+
+How Athena Intelligence optimized research reports with LangSmith, LangChain, and LangGraph
+
+
+Case Studies
+4 min read
+
+
+
+
+
+
+
+
+
+
+
+
+LangSmith for the full product lifecycle: How Wordsmith quickly builds, debugs, and evaluates LLM performance in production
+
+
+Case Studies
+5 min read
+
+
+
+
+
+
+
+
+
+
+
+
+Improving Memory Retrieval: How New Computer achieved 50% higher recall with LangSmith
+
+
+Case Studies
+4 min read
+
+
+
+
+
+
+
+
+
+
+
+
+How Factory used LangSmith to automate their feedback loop and improve iteration speed by 2x
+
+
+By LangChain
+4 min read
+
+
+
+
+
+
+
+
+
+
+
+
+Rakuten Group builds with LangChain and LangSmith to deliver premium products for its business clients and employees
+
+
+By LangChain
+3 min read
+
+
+
+
+
+
+
+
+
+
+
+
+LangChain Partners with CommandBar on their Copilot User Assistant
+
+
+By LangChain
+2 min read
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up
+
+
+
+
+
+            © LangChain Blog 2024",520,ReMark helps practitioners by generating functional code snippets relevant to their use case.
+14,What is one of the main advantages of using OpaquePrompts for anonymizing data with LangChain?,"response = chain.invoke(text)In the LangChain documentation we can find a full tutorial on how to use Microsoft Presidio plus a tutorial on how to use Presidio with non-English languages. If planning on using Presidio, you can also consider using it with LLMGuard which contains a suite of tools for LLM security including both input controls and guards (anonymization for PII data, jailbreaks) and output controls (malicious links, toxicity).OpaquePromptsAnother good option to anonymize data is using OpaquePrompts. Instead of using several techniques in unison, OpaquePrompts uses one ML model to detect PII data and mask it appropriately. One of the main advantages of using OpaquePrompts is just how easy it is to use with LangChain, where we just use an `OpaquePrompts` LLM class which we initialize with a LangChain LLM like `OpenAI`.chain = LLMChain(
+  prompt=prompt,
+  # llm=OpenAI(),
+  llm=OpaquePrompts(base_llm=OpenAI()),
+  memory=memory,
+)Another of its differential aspects is that it uses confidential computing which means that not even their anonymization service can access the original data; a great feature for privacy seeking users. Finally, it will deanonymize the data after getting the response from the LLM so the user will get an answer that contains the original entities that they mentioned / requested.Sanitizing data for LangSmithIn case we want to use LangSmith to log our app’s conversations, we might face another challenge: saving the data in a sanitized form. If we just use the aforementioned tools in the way described earlier, the LLM provider will receive the input in a sanitized form but we would be saving the original, unsanitized input to LangSmith. How can we avoid this?Option #1: do not save inputs or outputsIf we want to make sure we are not saving any PII data to LangSmith, we can just hide the inputs and outputs of all of our queries from LangSmith. This can be done with a few environmental variables that LangSmith will use to understand whether it needs to log inputs/outputs or not: LANGCHAIN_HIDE_INPUTS=true
+LANGCHAIN_HIDE_OUTPUTS=trueIn this way we can directly control what is logged and what is not. For more information on this, please refer to the docs.It is important to note that if using this functionality, we should consider hiding both the inputs and the outputs since the LLM might mention PII data points in its answer (‘Hi John Smith! Nice to meet you’).Option #2: mask before savingSay we want to use the data in LangSmith to debug our application or we were thinking of finetuning a model of our own. In this case, not having the logs of our user’s conversations would hinder us from using real data to improve the quality of our application. Another option for cases like this is to mask the input so that the LLM and the tracing software both receive masked inputs. This can be achieved by masking the input before sending it as input to the chain. This method has the advantage of allowing us to trace and later use the conversation data while also keeping the data sanitized for the LLM providers and LangSmith tracing.ConclusionHandling PII data effectively is an important aspect of building safe and reliable data applications. We have presented a few proposed solutions for this problem but the LangChain ecosystem is consistently integrating new and innovative alternatives. Stay tuned to the LangChain newsletter to be the first to hear of new developments on this front!If you enjoyed this blog post, we're also doing a webinar on this subject next week - sign up here to join!",560,"Option #1: do not save inputs or outputs
+
+If we want to make sure we are not saving any PII data to LangSmith, we can just hide the inputs and outputs of all of our queries from LangSmith. This can be done with a few environmental variables that LangSmith will use to understand whether it needs to log inputs/outputs or not:
+
+LANGCHAIN_HIDE_INPUTS=true
+LANGCHAIN_HIDE_OUTPUTS=true
+
+In this way we can directly control what is logged and what is not. For more information on this, please refer to the docs. It is important to note that if using this functionality, we should consider hiding both the inputs and the outputs since the LLM might mention PII data points in its answer (‘Hi John Smith! Nice to meet you’)."
+15,"What specific business requirements does Eden AI address, according to the context provided?","Editor's Note: This post was written in collaboration with the Eden AI team. We're really excited about Eden's approach to simplifying AI implementation so that we can get more applications into production! It grants access to a diverse range of AI capabilities, spanning text and image generation, OCR, speech-to-text, and image analysis, all with the convenience of a single API key and minimal code. And their integration with LangChain provides effortless access to lots of LLMs and Embeddings.Introducing Eden AI: Pioneering AI AccessibilityEden AI stands as a new revolutionary platform meant to deal with the growing complexity and diversity of AI solutions, which allows users to access a large variety of AI tools using a single API key and just a few lines of code. Whether you need Text or Image generation, OCR (Optical Character Recognition), Speech-to-Text conversion, Image Analysis, or more, Eden AI has got you covered. Gone are the days of navigating a complex maze of APIs and authentication processes; Eden AI consolidates it all into one convenient platform.Get your API key for FREEDesigned to be user-friendly and accessible to individuals of all proficiency levels, whether they are AI novices or experts, Eden AI seamlessly addresses a diverse spectrum of business requirements, including but not limited to: Data analysis, NLP capabilities, Computer Vision, Automation Optimization, and Custom model training.Eden AI and LangChain: a powerful AI integration partnershipLangChain is an open-source library that provides multiple tools to build applications powered by Large Language Models (LLMs), making it a perfect combination with Eden AI.Within the LangChain ecosystem, Eden AI empowers users to fully leverage LLM providers without encountering any limitations. Here is how:1. A unified platform to access multiple LLMs and EmbeddingsEach LLM possesses unique strengths that make it suitable for specific use cases. However, finding the liberty to move between the best LLMs in the market can be challenging. By integrating with LangChain, Eden AI opens the door to an extensive array of LLM and Embedding models. This integration empowers users to harness the capabilities of various providers, even models that are not directly integrated into LangChain's framework.The core strength of this combination lies in its simplicity. With just one API key and a single line of code, LangChain users can tap into a diverse range of LLMs through Eden AI. This not only enhances LangChain's models but also provides great flexibility and adaptability to cater to different AI requirements.2. A robust dashboard to optimize your AI investmentsEden AI doesn't stop at simplifying access to AI models; it also offers robust monitoring and cost management features. With our intuitive dashboard, you have the power to monitor your AI usage among multiple AI APIs, gain insights into resource allocation, and optimize costs effectively. Additionally, you’ll have access to features such as logging for enhanced debugging and API caching to reduce usage and avoid redundant charges.This streamlined approach to cost management ensures that you get the most out of your AI investment without any surprises in your budget.3. Advanced AI capabilities to enhance your applicationsThe integration of Eden AI into LangChain represents a significant breakthrough for developers working with LangChain's Agent Tools, empowering them to leverage more advanced capabilities to enhance their applications. LangChain Agents act as intermediaries between LLMs and various tools, facilitating a wide range of tasks in AI-powered applications, such as web searches, calculations, and code execution. They are especially crucial for creating versatile and responsive applications, allowing developers to execute functions dynamically and interact with external APIs based on specific user queries.The key benefit of this integration is that LangChain users can now incorporate these advanced tools into their applications with ease, including features like Explicit Content Detection for both text and images, Invoice and ID parsing, Object Detection, Text-to-Speech, and Speech-to-Text.Consequently, this partnership enables developers to enhance their applications with the best AI models and providers, all accessible via a standard API key, thereby delivering an unprecedented level of versatility and responsiveness in executing various functions and interacting with external APIs.How to use Eden AI LLMs and Embedding models into LangChain?Here are not one, but two tutorials that will empower you to redefine the way you approach AI-powered applications. If you’re looking for a basic starter with Eden AI's LLMs and Embeddings, we advise you to follow the first tutorial. On the other hand, if you’re interested in advanced integration, you can proceed directly to the second tutorial! Tutorial 1: Get started with Eden AI to access multiple LLMs and EmbeddingsIn our first tutorial, you will learn how to harness the combined power of LangChain and Eden AI to access multiple Large Language Models (LLMs) and Embeddings. By mastering",600,"Question: What are the main advantages of integrating Eden AI with LangChain?
+
+Answer: The main advantages of integrating Eden AI with LangChain include:
+1. A unified platform to access multiple LLMs and Embeddings with just one API key and minimal code.
+2. A robust dashboard for optimizing AI investments, including monitoring usage, resource allocation, cost management, logging for debugging, and API caching.
+3. Advanced AI capabilities, such as Explicit Content Detection, Invoice and ID parsing, Object Detection, Text-to-Speech, and Speech-to-Text, to enhance AI-powered applications."
+16,What role does the RecordManager play in the LangChain indexing process when syncing data sources to a vector store?,"Syncing data sources to vector stores
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All Posts
+
+
+
+
+Case Studies
+
+
+
+
+In the Loop
+
+
+
+
+LangChain
+
+
+
+
+Docs
+
+
+
+
+Changelog
+
+
+
+
+
+Sign in
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Syncing data sources to vector stores
+
+4 min read
+Sep 6, 2023
+
+
+
+
+
+Most complex and knowledge-intensive LLM applications require runtime data retrieval for Retrieval Augmented Generation (RAG). A core component of the typical RAG stack is a vector store, which is used to power document retrieval.Using a vector store requires setting up an indexing pipeline to load data from sources (a website, a file, etc.), transform the data into documents, embed those documents, and insert the embeddings and documents into the vector store.If your data sources or processing steps change, the data needs to be re-indexed. If this happens regularly, and the changes are incremental, it becomes valuable to de-duplicate the content being indexed with the content already in the vector store. This avoids spending time and money on redundant work. It also becomes important to set up vector store cleanup processes to remove stale data from your vector store.LangChain Indexing APIThe new LangChain Indexing API makes it easy to load and keep in sync documents from any source into a vector store. Specifically, it helps:Avoid writing duplicated content into the vector storeAvoid re-writing unchanged contentAvoid re-computing embeddings over unchanged contentCrucially, the indexing API will work even with documents that have gone through several transformation steps (e.g., via text chunking) with respect to the original source documents.How it worksLangChain indexing makes use of a record manager (RecordManager) that keeps track of document writes into a vector store.When indexing content, hashes are computed for each document, and the following information is stored in the record manager:the document hash (hash of both page content and metadata)write timethe source id -- each document should include information in its metadata to allow us to determine the ultimate source of this documentCleanup modesWhen re-indexing documents into a vector store, it's possible that some existing documents in the vector store should be deleted. If you’ve made changes to how documents are processed before insertion or source documents have changed, you’ll want to remove any existing documents that come from the same source as the new documents being indexed. If some source documents have been deleted, you’ll want to delete all existing documents in the vector store and replace them with the re-indexed documents.The indexing API cleanup modes let you pick the behavior you want:For more detailed documentation of the API and its limitations, check out the docs: https://python.langchain.com/docs/modules/data_connection/indexingSeeing it in actionFirst let’s initialize our vector store. We’ll demo with the ElasticsearchStore, since it satisfies the pre-requisites of supporting insertion and deletion. See the Requirements docs section for more on vector store requirements.# !pip install openai elasticsearch
+
+from langchain.embeddings import OpenAIEmbeddings
+from langchain.vectorstores import ElasticsearchStore
+
+collection_name = ""test_index""
+
+# Set env var OPENAI_API_KEY
+embedding = OpenAIEmbeddings()
+
+# Run an Elasticsearch instance locally:
+# !docker run -p 9200:9200 -e ""discovery.type=single-node"" -e ""xpack.security.enabled=false"" -e ""xpack.security.http.ssl.enabled=false"" docker.elastic.co/elasticsearch/elasticsearch:8.9.0
+vector_store = ElasticsearchStore(
+    collection_name,    
+    es_url=""<http://localhost:9200>"", 
+    embedding=embedding
+)
+And now we’ll initialize and create a schema for our record manager, for which we’ll just use a SQLite table:from langchain.indexes import SQLRecordManager",640,"The LangChain Indexing API helps avoid writing duplicated content into the vector store by computing hashes for each document and storing the document hash, write time, and source id in the record manager. This ensures that unchanged content is not re-written or re-embedded."
+17,"What are the two concrete steps mentioned in the context that LangChainHub is taking to make it easy and straightforward for people to use the collection of prompts, agents, and chains?","LangChainHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All Posts
+
+
+
+
+Case Studies
+
+
+
+
+In the Loop
+
+
+
+
+LangChain
+
+
+
+
+Docs
+
+
+
+
+Changelog
+
+
+
+
+
+Sign in
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LangChainHub
+
+2 min read
+Jan 23, 2023
+
+
+
+
+
+We are excited to announce the launch of the LangChainHub, a place where you can find and submit commonly used prompts, chains, agents, and more!This obviously draws a lot of inspiration from Hugging Face's Hub, which we believe has done an incredible job of fostering an amazing community.MotivationOver the past few months, we’ve seen the LangChain community build a staggering number of applications using the framework. These applications use LangChain components such as prompts, LLMs, chains and agents as building blocks to create unique workflows. We wanted to make it easy to share and discover these workflows by creating a hub where users can share the components they’ve created.Our goal with LangChainHub is to be a single stop shop for sharing prompts, chains, agents and more. As a starting point, we’re launching the hub with a repository of prompts used in LangChain. Often, the secret sauce of getting good results from an LLM is high-quality prompting, and we believe that having a collection of commonly-used prompts will make it easier for users to get great results without needing to reinvent the wheel. We hope to follow up by adding support for chains and agents shortly.UsageWe don't just want to build a collection of prompts, agents, and chains - we want to make it as easy and as straightforward as possible for people to actually use these. To that end, we are taking two concrete steps:We will offer first-class support in the LangChain Python library for loading these artifacts. For example, you are able to easily load a prompt from the hub with the following snippet:from langchain.prompts import load_prompt
+prompt = load_prompt('lc://prompts/hello-world/prompt.yaml')2. We will prioritize clear documentation on how to use these artifacts. For example, all prompts contain not only the artifact itself but also a README file. This file contains information like a description of how it is to be used, the inputs it expects, and a code snippet for how to use this prompt in a chain.For more detailed information on how to use the artifacts on the Hub, check out the documentation on the Hub itself.CommunityWe highly intend this to be community driven. We have seeded the Hub with a collection of artifacts that are used in the core library, but we hope it quickly becomes filled with prompts, chains, and agents that are NOT in the core library.Since we are using GitHub to organize this Hub, adding artifacts can best be done in one of two ways:Create a fork and then open a PR against the repo.Create an issue on the repo with details of the artifact you would like to add.Up NextToday, LangChainHub contains all of the prompts available in the main LangChain Python library.In the (hopefully near) future, we plan to add:Chains: A collection of chains capturing various LLM workflowsAgents: A collection of agent configurations, including the underlying LLMChain as well as which tools it is compatible with.Custom prompts repo URI: The ability to set a custom URI for prompt repositories, so that users can create their own LangChain hubs.ConclusionWe are looking forward to the community's contributions and feedback as we continue to build out the Hub. Check it out here and join the conversation on Discord!
+
+
+Tags
+By LangChain
+
+
+Join our newsletter
+Updates from the LangChain team and community
+
+
+Enter your email
+
+Subscribe
+
+Processing your application...
+Success! Please check your inbox and click the link to confirm your subscription.
+Sorry, something went wrong. Please try again.
+
+
+
+
+
+You might also like
+
+
+
+
+
+
+
+
+
+
+Few-shot prompting to improve tool-calling performance
+
+
+By LangChain
+8 min read
+
+
+
+
+
+
+
+
+
+
+
+
+Improving core tool interfaces and docs in LangChain
+
+
+By LangChain
+4 min read
+
+
+
+
+
+
+
+
+
+
+
+
+Announcing LangGraph v0.1 & LangGraph Cloud: Running agents at scale, reliably
+
+
+By LangChain
+6 min read
+
+
+
+
+
+
+
+
+
+
+
+
+Aligning LLM-as-a-Judge with Human Preferences
+
+
+By LangChain
+5 min read",680,"The LangChainHub is a platform designed to make it easy to find and share commonly used prompts, chains, and agents for building applications using the LangChain framework."
+18,Explain how the previous implementation of run-scoped custom callbacks in TypeScript was tedious and how the new changes improve this process. Use the provided example for reference.,"Callbacks Improvements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All Posts
+
+
+
+
+Case Studies
+
+
+
+
+In the Loop
+
+
+
+
+LangChain
+
+
+
+
+Docs
+
+
+
+
+Changelog
+
+
+
+
+
+Sign in
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Callbacks Improvements
+
+3 min read
+May 1, 2023
+
+
+
+
+
+TL;DR: We're announcing improvements to our callbacks system, which powers logging, tracing, streaming output, and some awesome third-party integrations. This will better support concurrent runs with independent callbacks, tracing of deeply nested trees of LangChain components, and callback handlers scoped to a single request (which is super useful for deploying LangChain on a server). Python docsJS docsContextOriginally we designed the callbacks mechanism in LangChain to be used in non-async Python applications. Now that we have support for both asyncio Python usage as well LangChain in JavaScript/TypeScript, we needed some better abstractions native to this new world where many concurrent LangChain runs can be inflight in the same thread or in multiple threads. Additionally, it became clear that developers using LangChain in web environments often wanted to scope a callback to a single request (so they can pass it a specific handle to a websocket, for example).ChangesWe've made some changes to our callbacks mechanism to address these issues:You can now declare which callbacks you want either in constructor args (which apply to all runs), or passing them directly to the run / call / apply methods that start a run. Constructor callbacks will be used for all calls made on that object, and will be scoped to that object only, i.e. if you pass a handler to the LLMChain constructor, it will not be used by the model attached to that chain. Request callbacks will be used for that specific request only, and all sub-requests that it contains (eg. a call to an LLMChain triggers a call to a Model, which uses the same handler passed in the call() method). These are explicitly passed through. An example to make this more concrete: when a handler is passed through to an AgentExecutor via run, it will be used for all callbacks related to the agent and all the objects involved in the agent’s execution, in this case, the Tools, LLMChain, and LLM. Previously, to use a callback scoped to particular agent run, that callback manager had to be attached to all nested objects – this was tedious, ugly, and made it hard to re-use objects. See the TypeScript example below:// What had to be done before for run-scoped custom callbacks. Very tedious!
+const executors = [];
+for (let i = 0; i < 3; i += 1) {
+  const callbackManager = new CallbackManager();
+  callbackManager.addHandler(new ConsoleCallbackHandler());
+  callbackManager.addHandler(new LangChainTracer());
+
+  const model = new OpenAI({ temperature: 0, callbackManager });
+  const tools = [new SerpAPI(), new Calculator()];
+  for (const tool of tools) {
+    tool.callbackManager = callbackManager;
+  }
+  const executor = await initializeAgentExecutor(
+    tools,
+    model,
+    ""zero-shot-react-description"",
+    true,
+    callbackManager
+  );
+  executor.agent.llmChain.callbackManager = callbackManager;
+  executors.push(executor);
+}",720,"The improvements to the callbacks system in LangChain include support for concurrent runs with independent callbacks, tracing of deeply nested trees of LangChain components, and callback handlers scoped to a single request."
+19,"What are the two main benefits provided by the integration of GPT Researcher with LangChain's OpenAI adapter, as described in the context?","GPT Researcher x LangChain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All Posts
+
+
+
+
+Case Studies
+
+
+
+
+In the Loop
+
+
+
+
+LangChain
+
+
+
+
+Docs
+
+
+
+
+Changelog
+
+
+
+
+
+Sign in
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GPT Researcher x LangChain
+
+By LangChain
+3 min read
+Aug 13, 2023
+
+
+
+
+
+Here at LangChain we think that web research is fantastic use case for LLMs. So much so that we wrote a blog on it about a month ago. In that blog we mentioned the leading open-source implementation of a research assistant - gpt-researcher. Today we're excited to announce that GPT Researcher is integrated with LangChain. Specifically, it is integrated with our OpenAI adapter, which allows (1) easy usage of other LLM models under the hood, (2) easy logging with LangSmith.What is GPT Researcher? From the GitHub repo:The main idea is to run ""planner"" and ""execution"" agents, whereas the planner generates questions to research, and the execution agents seek the most related information based on each generated research question. Finally, the planner filters and aggregates all related information and creates a research report. The agents leverage both gpt3.5-turbo-16k and gpt-4 to complete a research task.More specifcally:- Generate a set of research questions that together form an objective opinion on any given task.- For each research question, trigger a crawler agent that scrapes online resources for information relevant to the given task.- For each scraped resources, summarize based on relevant information and keep track of its sources.- Finally, filter and aggregate all summarized sources and generate a final research report.An image of the architecture can be seen below.Under the hood this uses OpenAI's ChatCompletion endpoint. As number of viable models has started to increase (Anthropic, Llama2, Vertex models) we've been chatting with the GPT Researcher team about integrating LangChain. This would allow them to take advantage of the ~10 different Chat Model integrations that we have. It would also allow users to take advantage of LangSmith - our recently announced debugging/logging/monitoring platform.In order to make this transition as seamless as possible we added an OpenAI adapter that can serve as a drop-in replacement for OpenAI. For a full walkthrough of this adapter, see the documentation here. This adapter can be use by the following code swap:- import openai
++ from langchain.adapters import openaiSee here for the full PR enabling it on the GPT Researcher repo.The first benefit this provides is enabling easy usage of other models. By passing in provider=""ChatAnthropic"", model=""claude-2"", to create, you easily use Anthropic's Claude model.The second benefit this provides is seamless integration with LangSmith. Under the hood, GPT Researcher makes many separate LLM calls. This complexity is a big part of why it's able to perform so well. As the same time, this complexity can also make it more difficult to debug and understand what is going on. By enabling LangSmith, you can easily track that.For example, here is the LangSmith trace for the call to the language model when it's generating an agent description to use:And here is the LangSmith trace for the final call to the language model - when it asks it to write the final report:We're incredibly excited to be supporting GPT Researcher. We think this is one of the biggest opportunities for LLMs. We also think GPT Researcher strikes an appropriate balance, where the architecture is certainly very complex but it's more focused than a completely autonomous agent. We think applications that manage to strike that balance are the future, and we're very excited to be able to partner with and support them in any way.
+
+
+Tags
+By LangChain
+
+
+Join our newsletter
+Updates from the LangChain team and community
+
+
+Enter your email
+
+Subscribe
+
+Processing your application...
+Success! Please check your inbox and click the link to confirm your subscription.
+Sorry, something went wrong. Please try again.
+
+
+
+
+
+You might also like
+
+
+
+
+
+
+
+
+
+
+Few-shot prompting to improve tool-calling performance
+
+
+By LangChain
+8 min read
+
+
+
+
+
+
+
+
+
+
+
+
+Improving core tool interfaces and docs in LangChain
+
+
+By LangChain
+4 min read",760,"GPT Researcher generates research reports by utilizing ""planner"" and ""execution"" agents that generate research questions, scrape online resources, summarize relevant information, and aggregate it into a final report."
+20,"What action should you take after receiving a ""Success!"" message when subscribing to the newsletter?","Tags
+
+
+
+Join our newsletter
+Updates from the LangChain team and community
+
+
+Enter your email
+
+Subscribe
+
+Processing your application...
+Success! Please check your inbox and click the link to confirm your subscription.
+Sorry, something went wrong. Please try again.
+
+
+
+
+
+You might also like
+
+
+
+
+
+
+
+
+
+
+NeumAI x LangChain: Efficiently maintaining context in sync for AI applications
+
+
+5 min read
+
+
+
+
+
+
+
+
+
+
+
+
+Making Data Ingestion Production Ready: a LangChain-Powered Airbyte Destination
+
+
+3 min read
+
+
+
+
+
+
+
+
+
+
+
+
+Chat with your data using OpenAI, Pinecone, Airbyte and Langchain
+
+
+15 min read
+
+
+
+
+
+
+Yeager.ai x LangChain: Exploring GenWorlds a Framework for Coordinating AI Agents
+
+
+11 min read
+
+
+
+
+
+
+
+
+
+
+
+
+Conversational Retrieval Agents
+
+
+4 min read
+
+
+
+
+
+
+Unifying AI endpoints with Genoss, powered by LangChain
+
+
+4 min read
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up
+
+
+
+
+
+            © LangChain Blog 2024",800,"""Success! Please check your inbox and click the link to confirm your subscription."""
+21,What recent measures have been taken to address the challenges of creating and maintaining high-value language model applications in production settings according to the provided context?,"a specific task)Future PlansAs mentioned earlier, we believe that language models are unlocking new types of high-value applications, and it is still non-trivial to create and maintain these applications — particularly in production settings. Some of our more recent releases are focused on addressing these problems:Bringing the TypeScript package up to feature parity with Python to enable more full-stack and frontend developers to create LLM applicationsImplementing several types of OutputParsers, to allow for more safety and guidance on the text returned by a LLMIntroducing a Retriever abstraction to enable more complicated and necessary types of document retrievalBuilding integrations with solutions like Weights & Biases, AIM, ClearML to enable more observability and experimentation with LLM applicationsWe will continue to add features to LangChain and provide other offerings that will:Make it easy to quickly prototype applications.Bridge the gap between prototyping and putting something into production.We’re incredibly excited to see what will be built and to do more to support you. We are also especially grateful to the entire LangChain community. LangChain will continue to be open-source and focused on developers — our funding allows us to allocate more resources to take it to the next level. If this mission and journey sounds interesting to you, we are actively hiring founding engineers. If you have suggestions on new features or are interested in evaluating and running your LangChain applications in production, we’d especially love to hear from you at support@langchain.dev!Thank you for everything so far, and let’s build some cool stuff 🙂",840,LangChain will continue to add features and provide offerings that will make it easy to prototype applications quickly and bridge the gap between prototyping and putting something into production.
+22,"What are the two key facets of the MVP browser experience where LangChain was incorporated, according to the provided context?","[Editor's Note]: This is the second of hopefully many guest posts. We intend to highlight novel applications building on top of LangChain. If you are interested in working with us on such a post, please reach out to harrison@langchain.dev.Authors: Parth Asawa (pgasawa@), Ayushi Batwara (ayushi.batwara@), Jason Ding (jasonding@), Arvind Rajaraman (arvind.rajaraman@) [@berkeley.edu]Link to original blogpostThe ProblemHas your browser ever looked like this?There’s probably been a time when you’ve had too many tabs to count open across different windows. Why? Because we’re never working on just one thing at once. As students, you may have tabs open for different courses, different projects, activities, etc., and as a developer, you may have different projects, planning tabs, etc. You get the idea.You may have attempted a solution, though — tab groups:But what do these tab groups accomplish? Do they get rid of the clutter they sought to get rid of? No. Instead, we end up opening more and more tabs in the hope that one day we will use that one paragraph from that one long-lost tab. The more open tabs, the harder context switching becomes; it’s all just clutter.Knowledge grows stale, too — it’s hard to keep track of the information across all the tabs constantly, and in most cases, we forget it. There’s no concept of knowledge centralization.MissionGiven this ubiquitous problem that people face in the current browsing experience, something that has not seen any radical innovation or change in quite a while, we set out to disrupt that with Origin.We’re all students at UC Berkeley currently pursuing dual degrees in EECS & Business Administration through the Management, Entrepreneurship, and Technology (M.E.T.) Program.This project was an idea we built out over 36 hours at Stanford’s annual hackathon, TreeHacks.Origin is an app to take in your existing browser history and organizes it into context-aware workspaces with automatically generated summaries, which then offer workspace-specific semantic search, recommendation systems, and chatbots.We take in your browsing history, create embeddings, and automatically run a clustering algorithm to learn workspaces. We enable semantic search to find different URLs within workspaces easily, so you never have to be scared of closing a tab; then, we scrape the websites to create summaries and use a highly specific ChatBot per workspace. This allows for knowledge centralization, ease of access to existing knowledge, and persistence in knowledge — it’ll be there even if you close a tab.An example V0 landing page with some learned workspaces:Tech DiveIn this blog post, we’ll primarily focus on how LangChain fit into our project. As an aside, we rely on some traditional ML and statistical techniques like K-Means, collaborative filtering, off the shelf HF embeddings, and more to incorporate some of the other features like clustering, semantic search, recommendation systems, etc.We incorporated LangChain into two key facets of this MVP browser experience that occurs when you launch a workspace.SummarizationThe first was summarization. We wanted an effective way to remind users where they left off in a workspace. Using BeautifulSoup, we developed a web scraper to parse through recently visited websites. From this information, we wanted a way to generate an effective summary and relied on LangChain’s ‘map_reduce’ summarization chain to efficiently summarize large amounts of text using OpenAI embeddings.ChatbotThe second was the ability to ‘chat your browser.’ Users have knowledge spread across hundreds of tabs that they rarely revisit and spend the time to parse through. But if the user wants an easy way to interact with their knowledge, it doesn’t exist. A chatbot with access to all the information in those browsers does, though. Using the same web scraper, we followed the model set by LangChain’s Chat Your Data example and broke the text down into smaller chunks that were then embedded and stored in a vectorstore. This vectorstore is then used at serve time as a part of the ChatVectorDBChain to provide context to our chatbot based on OpenAI models and generate highly specific responses to the user’s workspace context.Conclusion and Future DirectionDespite all this fun exploration, there’s a good amount of things to think about which wouldn’t scale in the real world. As an example, compute costs with the standard GPT-3 models were expensive and likely not sustainable in the way we used them. Figuring out ways to optimize the costs of",880,"The authors of ""Origin"" are currently pursuing dual degrees in which program at UC Berkeley?
+
+The Management, Entrepreneurship, and Technology (M.E.T.) Program."
