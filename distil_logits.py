@@ -13,7 +13,7 @@ config = {
     "dataset": {
         "name": "mlabonne/FineTome-100k", # Only sharegpt format is currently supported.
         "split": "train",
-        "num_samples" : 5_000
+        "num_samples" : 5_000,
         "seed": 42
     },
     "models": {
